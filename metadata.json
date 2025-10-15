@@ -1,0 +1,7 @@
+{
+  "name": "AI Music Generator",
+  "description": "Create AI-generated spoken word music from text and lyrics. Describe a mood or genre, add your lyrics, and let the AI compose a unique audio performance.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
